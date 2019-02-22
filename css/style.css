@@ -14,7 +14,7 @@ h1 {
 	margin-bottom: 25px;
 }
 
-#mc-embedded-subscribe-form {
+#mc_embed_signup form {
 	text-align: center;
 	background: red;
 }
