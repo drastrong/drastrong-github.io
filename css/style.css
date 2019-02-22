@@ -1,0 +1,20 @@
+body {
+	background-image: url(../img/BG.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.container {
+	text-align: center !important;
+	padding-top: 15%;
+}
+
+h1 {
+	font-size: 25px;
+	margin-bottom: 25px;
+}
+
+#mc-embedded-subscribe-form {
+	text-align: center;
+	background: red;
+}
