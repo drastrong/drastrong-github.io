@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-	text-align: center !important;
+	text-align: center;
 	padding-top: 15%;
 }
 
@@ -14,7 +14,6 @@ h1 {
 	margin-bottom: 25px;
 }
 
-/*#mc-embedded-subscribe-form {
+#mc-embedded-subscribe-form {
 	text-align: center;
-	background: blue;
-}*/
+}
