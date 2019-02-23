@@ -15,5 +15,5 @@ h1 {
 }
 
 #mc-embedded-subscribe-form {
-	text-align: center;
+	text-align: center !important;
 }
